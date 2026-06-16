@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ChinthamBrahmaiah/leetcodeproblems/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ChinthamBrahmaiah/leetcodeproblems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
